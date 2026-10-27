@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_DEPRECATE
 #include <stdio.h>
 #include <locale.h>
+#include <math.h>
 
 void zd1();
 void zd2();
