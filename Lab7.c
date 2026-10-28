@@ -69,7 +69,7 @@ void zd2()
 
 	printf("Задание 2\n");
 
-	printf("Введите значения x, y, c: ");
+	printf("Введите значения x, c, y: ");
 	scanf("%f%c%f", &x, &c, &y);
 
 	switch (c)
